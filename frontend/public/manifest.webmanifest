@@ -1,0 +1,23 @@
+{
+  "name": "UniMate — University Assistant",
+  "short_name": "UniMate",
+  "description": "Verified multilingual university AI assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fd",
+  "theme_color": "#0758d8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/unimate-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}

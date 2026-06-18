@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Department 1",
+    "purpose": "General inquiry and support",
+    "phone": "(555) 000-0000",
+    "source_url": "https://example.com/department1"
+  },
+  {
+    "name": "Department 2",
+    "purpose": "Housing and accommodation",
+    "email": "contact@example.com",
+    "phone": "(555) 000-0001",
+    "source_url": "https://example.com/department2"
+  }
+]

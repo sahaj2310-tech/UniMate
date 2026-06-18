@@ -1,0 +1,40 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.env
+.env.*
+!.env.example
+*.pyc
+*.log
+*.db
+*.sqlite
+backend/htmlcov/
+backend/.coverage
+data/raw/
+data/generated/
+frontend/.vite/
+frontend/coverage/
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+
+# Build output
+build/
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+.coverage
+htmlcov/

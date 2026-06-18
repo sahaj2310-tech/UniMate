@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="UniMate icon">
+  <rect width="512" height="512" rx="116" fill="#0758d8"/>
+  <rect x="128" y="155" width="256" height="205" rx="52" fill="#ffffff"/>
+  <rect x="181" y="214" width="54" height="38" rx="19" fill="#071b4d"/>
+  <rect x="277" y="214" width="54" height="38" rx="19" fill="#071b4d"/>
+  <path d="M201 299h110" stroke="#13a05f" stroke-width="22" stroke-linecap="round"/>
+  <path d="M256 121v-42" stroke="#ffffff" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="256" cy="62" r="22" fill="#13a05f"/>
+</svg>
